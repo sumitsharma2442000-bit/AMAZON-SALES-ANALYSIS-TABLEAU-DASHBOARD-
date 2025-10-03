@@ -8,12 +8,22 @@ The main objectives are:
 -  Generate meaningful insights on customer preferences, pricing patterns, and sales performance.
 - Provide visualizations to communicate trends effectively.
 - 
-## 📂 Dashboard Files
-- `Amazon_Sales_Analysis_Part1_Customer_Insights.pdf`  
-- `Amazon_Sales_Analysis_Part2_Product_Performance.pdf`
-- ## 📷 Dashboard Preview
+# Amazon Sales Analysis – Tableau Dashboard
+
+# Amazon Sales Analysis – Tableau Dashboard
+
+## Dashboard Preview
 ![Customer Insights](Amazon_Sales_Analysis_Part1_Customer_Insights.png)
 ![Product Performance](Amazon_Sales_Analysis_Part2_Product_Performance.png)
+
+## Download PDFs
+[Customer Insights PDF](Amazon_Sales_Analysis_Part1_Customer_Insights.pdf)  
+[Product Performance PDF](Amazon_Sales_Analysis_Part2_Product_Performance.pdf)
+
+## View Live Dashboard
+You can explore the interactive dashboard on Tableau Public here:  
+[View on Tableau Public](https://public.tableau.com/app/profile/sumit.sharma1352/viz/AMAZON_SALESANALYSIS/Dashboardoverview)
+
 
 Key Findings
 - USA generates the highest sales volume $ 8.2M followed by UK ($5M)
