@@ -1,0 +1,21 @@
+location_id,country,state,city,postal_code,region
+LOC001,USA,Texas,Houston,754756,West
+LOC002,UK,Wales,Swansea,414024,South
+LOC003,USA,California,San Francisco,502630,South
+LOC004,UK,Wales,Cardiff,623549,East
+LOC005,USA,Texas,Austin,208526,West
+LOC006,Canada,Ontario,Toronto,650490,West
+LOC007,India,Maharashtra,Mumbai,199757,South
+LOC008,Canada,British Columbia,Victoria,989116,South
+LOC009,UK,Wales,Swansea,898877,South
+LOC010,USA,New York,Rochester,601421,West
+LOC011,India,Karnataka,Bengaluru,613316,North
+LOC012,USA,New York,Buffalo,305492,East
+LOC013,UK,Scotland,Edinburgh,377677,South
+LOC014,India,Delhi,New Delhi,754666,West
+LOC015,USA,New York,Rochester,370575,South
+LOC016,UK,Scotland,Edinburgh,913792,East
+LOC017,USA,New York,Buffalo,270959,East
+LOC018,Canada,British Columbia,Vancouver,906698,West
+LOC019,USA,Texas,Houston,539301,West
+LOC020,India,Maharashtra,Pune,282609,South

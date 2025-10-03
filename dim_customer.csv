@@ -1,0 +1,501 @@
+customer_id,customer_name,gender,age,email,phone,country,state,city,loyalty_member
+CUST0001,Customer_1,Female,46,customer1@mail.com,446319832129,UK,Wales,Cardiff,Yes
+CUST0002,Customer_2,Female,39,customer2@mail.com,449740898294,UK,Wales,Swansea,Yes
+CUST0003,Customer_3,Male,46,customer3@mail.com,448729463010,UK,England,Manchester,Yes
+CUST0004,Customer_4,Female,43,customer4@mail.com,18826612235,USA,Texas,Houston,No
+CUST0005,Customer_5,Male,49,customer5@mail.com,916337960866,India,Tamil Nadu,Coimbatore,No
+CUST0006,Customer_6,Male,28,customer6@mail.com,449038553145,UK,Scotland,Edinburgh,No
+CUST0007,Customer_7,Female,25,customer7@mail.com,19813004049,USA,New York,Buffalo,No
+CUST0008,Customer_8,Female,38,customer8@mail.com,18429986101,USA,Texas,Austin,Yes
+CUST0009,Customer_9,Female,46,customer9@mail.com,918381213221,India,Maharashtra,Mumbai,No
+CUST0010,Customer_10,Male,49,customer10@mail.com,18048406634,USA,New York,Rochester,Yes
+CUST0011,Customer_11,Female,21,customer11@mail.com,918867134364,India,Maharashtra,Mumbai,Yes
+CUST0012,Customer_12,Female,29,customer12@mail.com,918947794881,India,Tamil Nadu,Chennai,No
+CUST0013,Customer_13,Female,52,customer13@mail.com,447921525677,UK,Scotland,Edinburgh,No
+CUST0014,Customer_14,Female,43,customer14@mail.com,917853006708,India,Delhi,New Delhi,Yes
+CUST0015,Customer_15,Male,45,customer15@mail.com,16031803508,USA,California,Los Angeles,No
+CUST0016,Customer_16,Male,28,customer16@mail.com,17976405994,Canada,Quebec,Quebec City,No
+CUST0017,Customer_17,Male,57,customer17@mail.com,18637903940,Canada,Quebec,Quebec City,Yes
+CUST0018,Customer_18,Female,49,customer18@mail.com,448683910433,UK,Scotland,Glasgow,No
+CUST0019,Customer_19,Female,53,customer19@mail.com,16652740265,Canada,British Columbia,Vancouver,Yes
+CUST0020,Customer_20,Male,48,customer20@mail.com,17344816114,Canada,Quebec,Montreal,Yes
+CUST0021,Customer_21,Male,36,customer21@mail.com,18408372715,Canada,Ontario,Toronto,Yes
+CUST0022,Customer_22,Male,54,customer22@mail.com,16872738853,USA,Texas,Austin,No
+CUST0023,Customer_23,Male,30,customer23@mail.com,18273015460,USA,Texas,Houston,No
+CUST0024,Customer_24,Male,21,customer24@mail.com,19091560951,Canada,British Columbia,Vancouver,Yes
+CUST0025,Customer_25,Male,33,customer25@mail.com,19649189050,USA,New York,Buffalo,No
+CUST0026,Customer_26,Female,34,customer26@mail.com,16337695088,Canada,Ontario,Toronto,No
+CUST0027,Customer_27,Male,49,customer27@mail.com,19493834671,USA,Texas,Houston,Yes
+CUST0028,Customer_28,Male,20,customer28@mail.com,19018655764,Canada,Ontario,Toronto,No
+CUST0029,Customer_29,Female,56,customer29@mail.com,17394251363,Canada,Ontario,Ottawa,No
+CUST0030,Customer_30,Male,31,customer30@mail.com,18179608711,USA,New York,Rochester,No
+CUST0031,Customer_31,Male,37,customer31@mail.com,16063333532,Canada,British Columbia,Vancouver,No
+CUST0032,Customer_32,Female,46,customer32@mail.com,448860062372,UK,Wales,Swansea,Yes
+CUST0033,Customer_33,Female,43,customer33@mail.com,449246650376,UK,Wales,Cardiff,No
+CUST0034,Customer_34,Male,23,customer34@mail.com,919590928183,India,Delhi,Delhi,Yes
+CUST0035,Customer_35,Female,21,customer35@mail.com,448211969949,UK,Wales,Swansea,Yes
+CUST0036,Customer_36,Male,41,customer36@mail.com,18118819315,USA,California,San Diego,Yes
+CUST0037,Customer_37,Male,28,customer37@mail.com,19413048825,USA,New York,Buffalo,No
+CUST0038,Customer_38,Male,46,customer38@mail.com,17467265189,USA,New York,New York,No
+CUST0039,Customer_39,Male,35,customer39@mail.com,19224431548,Canada,Ontario,Ottawa,Yes
+CUST0040,Customer_40,Female,52,customer40@mail.com,16828060548,USA,California,Los Angeles,No
+CUST0041,Customer_41,Male,34,customer41@mail.com,918496239098,India,Tamil Nadu,Chennai,Yes
+CUST0042,Customer_42,Female,33,customer42@mail.com,19362067140,Canada,Ontario,Ottawa,Yes
+CUST0043,Customer_43,Male,37,customer43@mail.com,918217460547,India,Maharashtra,Nagpur,Yes
+CUST0044,Customer_44,Male,26,customer44@mail.com,16454031813,USA,Texas,Houston,No
+CUST0045,Customer_45,Male,62,customer45@mail.com,19049006161,USA,New York,Rochester,Yes
+CUST0046,Customer_46,Male,33,customer46@mail.com,449140972244,UK,Scotland,Edinburgh,No
+CUST0047,Customer_47,Female,36,customer47@mail.com,449875747299,UK,Wales,Cardiff,Yes
+CUST0048,Customer_48,Female,32,customer48@mail.com,17450786068,USA,New York,Buffalo,Yes
+CUST0049,Customer_49,Male,41,customer49@mail.com,917770461836,India,Delhi,Delhi,No
+CUST0050,Customer_50,Male,48,customer50@mail.com,448625532974,UK,Scotland,Edinburgh,Yes
+CUST0051,Customer_51,Female,63,customer51@mail.com,917805985120,India,Maharashtra,Mumbai,Yes
+CUST0052,Customer_52,Female,40,customer52@mail.com,17670173582,Canada,Ontario,Toronto,No
+CUST0053,Customer_53,Male,41,customer53@mail.com,17927770130,USA,California,San Diego,No
+CUST0054,Customer_54,Female,64,customer54@mail.com,448519806523,UK,Scotland,Edinburgh,Yes
+CUST0055,Customer_55,Male,38,customer55@mail.com,449903260137,UK,Wales,Swansea,No
+CUST0056,Customer_56,Male,45,customer56@mail.com,916096257097,India,Maharashtra,Mumbai,Yes
+CUST0057,Customer_57,Female,24,customer57@mail.com,16644390313,USA,New York,Buffalo,No
+CUST0058,Customer_58,Male,27,customer58@mail.com,446696341581,UK,Scotland,Glasgow,No
+CUST0059,Customer_59,Male,44,customer59@mail.com,446621786831,UK,Scotland,Edinburgh,Yes
+CUST0060,Customer_60,Female,30,customer60@mail.com,917317779148,India,Maharashtra,Pune,Yes
+CUST0061,Customer_61,Female,56,customer61@mail.com,449188703667,UK,Wales,Cardiff,No
+CUST0062,Customer_62,Male,25,customer62@mail.com,446596955664,UK,Scotland,Edinburgh,No
+CUST0063,Customer_63,Female,54,customer63@mail.com,449048110804,UK,Scotland,Edinburgh,Yes
+CUST0064,Customer_64,Male,28,customer64@mail.com,18122291540,USA,Texas,Austin,No
+CUST0065,Customer_65,Male,40,customer65@mail.com,18566839187,Canada,Ontario,Toronto,Yes
+CUST0066,Customer_66,Female,58,customer66@mail.com,16471721269,Canada,British Columbia,Victoria,Yes
+CUST0067,Customer_67,Female,38,customer67@mail.com,17153558157,USA,New York,New York,No
+CUST0068,Customer_68,Female,54,customer68@mail.com,18425696771,USA,Texas,Austin,No
+CUST0069,Customer_69,Female,32,customer69@mail.com,918332107993,India,Maharashtra,Mumbai,No
+CUST0070,Customer_70,Female,56,customer70@mail.com,16473043733,Canada,Quebec,Montreal,Yes
+CUST0071,Customer_71,Male,30,customer71@mail.com,916985747255,India,Tamil Nadu,Chennai,Yes
+CUST0072,Customer_72,Female,43,customer72@mail.com,17178126146,USA,Texas,Dallas,Yes
+CUST0073,Customer_73,Male,60,customer73@mail.com,19397594470,Canada,British Columbia,Vancouver,Yes
+CUST0074,Customer_74,Female,44,customer74@mail.com,917131437144,India,Karnataka,Mysuru,Yes
+CUST0075,Customer_75,Female,36,customer75@mail.com,919753005799,India,Maharashtra,Nagpur,Yes
+CUST0076,Customer_76,Female,18,customer76@mail.com,17712885635,Canada,Quebec,Quebec City,No
+CUST0077,Customer_77,Female,27,customer77@mail.com,446623617484,UK,Scotland,Edinburgh,No
+CUST0078,Customer_78,Female,20,customer78@mail.com,447839673606,UK,Scotland,Glasgow,No
+CUST0079,Customer_79,Female,53,customer79@mail.com,17933673225,Canada,Ontario,Toronto,No
+CUST0080,Customer_80,Male,39,customer80@mail.com,918034955171,India,Delhi,New Delhi,No
+CUST0081,Customer_81,Female,34,customer81@mail.com,18098438340,Canada,Ontario,Toronto,No
+CUST0082,Customer_82,Male,21,customer82@mail.com,18363360614,Canada,Ontario,Toronto,No
+CUST0083,Customer_83,Female,53,customer83@mail.com,19835494046,USA,New York,Rochester,Yes
+CUST0084,Customer_84,Male,51,customer84@mail.com,16688859098,Canada,Ontario,Toronto,Yes
+CUST0085,Customer_85,Female,18,customer85@mail.com,449165644620,UK,Wales,Cardiff,No
+CUST0086,Customer_86,Male,64,customer86@mail.com,18152477096,USA,New York,New York,Yes
+CUST0087,Customer_87,Male,60,customer87@mail.com,16829741139,USA,New York,Buffalo,Yes
+CUST0088,Customer_88,Male,43,customer88@mail.com,918857863845,India,Maharashtra,Nagpur,No
+CUST0089,Customer_89,Female,45,customer89@mail.com,19112637331,Canada,Ontario,Toronto,Yes
+CUST0090,Customer_90,Female,27,customer90@mail.com,18291853097,USA,New York,Buffalo,No
+CUST0091,Customer_91,Male,62,customer91@mail.com,918024256598,India,Delhi,New Delhi,Yes
+CUST0092,Customer_92,Male,22,customer92@mail.com,919741694241,India,Maharashtra,Pune,No
+CUST0093,Customer_93,Male,42,customer93@mail.com,16820912376,USA,Texas,Houston,Yes
+CUST0094,Customer_94,Male,64,customer94@mail.com,446041038589,UK,Wales,Swansea,Yes
+CUST0095,Customer_95,Female,40,customer95@mail.com,919264168253,India,Karnataka,Bengaluru,Yes
+CUST0096,Customer_96,Female,61,customer96@mail.com,16640768434,Canada,Quebec,Montreal,Yes
+CUST0097,Customer_97,Male,25,customer97@mail.com,446994815607,UK,Scotland,Edinburgh,Yes
+CUST0098,Customer_98,Female,34,customer98@mail.com,17762945894,USA,California,San Diego,Yes
+CUST0099,Customer_99,Female,46,customer99@mail.com,17325526257,Canada,British Columbia,Victoria,Yes
+CUST0100,Customer_100,Male,26,customer100@mail.com,449935619423,UK,Scotland,Glasgow,No
+CUST0101,Customer_101,Male,47,customer101@mail.com,449285472473,UK,Scotland,Edinburgh,No
+CUST0102,Customer_102,Male,31,customer102@mail.com,446075943309,UK,Wales,Swansea,Yes
+CUST0103,Customer_103,Male,58,customer103@mail.com,19745127326,Canada,Ontario,Ottawa,No
+CUST0104,Customer_104,Male,59,customer104@mail.com,19308611758,Canada,Ontario,Ottawa,No
+CUST0105,Customer_105,Male,36,customer105@mail.com,918635409363,India,Tamil Nadu,Chennai,No
+CUST0106,Customer_106,Male,48,customer106@mail.com,18310032086,Canada,Quebec,Montreal,Yes
+CUST0107,Customer_107,Female,22,customer107@mail.com,18487524931,USA,Texas,Houston,No
+CUST0108,Customer_108,Male,41,customer108@mail.com,919504626465,India,Delhi,New Delhi,No
+CUST0109,Customer_109,Female,53,customer109@mail.com,17473730836,Canada,Ontario,Toronto,No
+CUST0110,Customer_110,Female,49,customer110@mail.com,916472697055,India,Tamil Nadu,Chennai,Yes
+CUST0111,Customer_111,Female,45,customer111@mail.com,16830233748,Canada,British Columbia,Victoria,No
+CUST0112,Customer_112,Female,53,customer112@mail.com,916555861177,India,Maharashtra,Nagpur,Yes
+CUST0113,Customer_113,Male,26,customer113@mail.com,18731161209,USA,Texas,Austin,Yes
+CUST0114,Customer_114,Female,40,customer114@mail.com,16121139021,USA,California,San Francisco,Yes
+CUST0115,Customer_115,Male,56,customer115@mail.com,919983952283,India,Maharashtra,Pune,No
+CUST0116,Customer_116,Male,28,customer116@mail.com,449779754960,UK,Wales,Cardiff,No
+CUST0117,Customer_117,Male,33,customer117@mail.com,447159506352,UK,Wales,Cardiff,No
+CUST0118,Customer_118,Female,52,customer118@mail.com,449806070888,UK,Wales,Swansea,No
+CUST0119,Customer_119,Female,27,customer119@mail.com,917311297937,India,Delhi,New Delhi,No
+CUST0120,Customer_120,Female,38,customer120@mail.com,18595020730,USA,Texas,Dallas,Yes
+CUST0121,Customer_121,Male,37,customer121@mail.com,16250531822,Canada,Ontario,Ottawa,No
+CUST0122,Customer_122,Female,44,customer122@mail.com,916836650315,India,Maharashtra,Mumbai,No
+CUST0123,Customer_123,Male,50,customer123@mail.com,446955648223,UK,Scotland,Glasgow,No
+CUST0124,Customer_124,Male,41,customer124@mail.com,19313507568,Canada,Ontario,Toronto,Yes
+CUST0125,Customer_125,Male,22,customer125@mail.com,917800242040,India,Maharashtra,Nagpur,No
+CUST0126,Customer_126,Female,26,customer126@mail.com,18676434736,Canada,Ontario,Toronto,No
+CUST0127,Customer_127,Female,39,customer127@mail.com,919522399454,India,Delhi,Delhi,Yes
+CUST0128,Customer_128,Female,52,customer128@mail.com,917474879111,India,Tamil Nadu,Chennai,Yes
+CUST0129,Customer_129,Female,44,customer129@mail.com,447340259320,UK,England,Manchester,Yes
+CUST0130,Customer_130,Female,26,customer130@mail.com,17507206650,Canada,Ontario,Toronto,Yes
+CUST0131,Customer_131,Male,54,customer131@mail.com,447861826771,UK,Scotland,Edinburgh,Yes
+CUST0132,Customer_132,Female,31,customer132@mail.com,446472127041,UK,Wales,Cardiff,No
+CUST0133,Customer_133,Female,53,customer133@mail.com,16173201479,Canada,Ontario,Toronto,Yes
+CUST0134,Customer_134,Female,45,customer134@mail.com,917992097300,India,Delhi,New Delhi,Yes
+CUST0135,Customer_135,Female,62,customer135@mail.com,916808813133,India,Karnataka,Mysuru,No
+CUST0136,Customer_136,Male,37,customer136@mail.com,17587109729,Canada,Ontario,Toronto,No
+CUST0137,Customer_137,Female,56,customer137@mail.com,918787923096,India,Delhi,Delhi,No
+CUST0138,Customer_138,Male,45,customer138@mail.com,19430487665,USA,Texas,Houston,No
+CUST0139,Customer_139,Male,53,customer139@mail.com,19055593687,USA,New York,Buffalo,Yes
+CUST0140,Customer_140,Female,24,customer140@mail.com,16064407245,USA,Texas,Dallas,Yes
+CUST0141,Customer_141,Female,18,customer141@mail.com,918570214747,India,Maharashtra,Mumbai,Yes
+CUST0142,Customer_142,Male,60,customer142@mail.com,449088595278,UK,Scotland,Glasgow,No
+CUST0143,Customer_143,Male,32,customer143@mail.com,447122141426,UK,Scotland,Edinburgh,No
+CUST0144,Customer_144,Female,62,customer144@mail.com,18415399659,Canada,Ontario,Toronto,Yes
+CUST0145,Customer_145,Female,36,customer145@mail.com,917349005526,India,Tamil Nadu,Chennai,No
+CUST0146,Customer_146,Female,32,customer146@mail.com,449302116684,UK,Scotland,Edinburgh,Yes
+CUST0147,Customer_147,Male,29,customer147@mail.com,19627965619,USA,New York,New York,Yes
+CUST0148,Customer_148,Female,51,customer148@mail.com,17103614400,Canada,Ontario,Toronto,Yes
+CUST0149,Customer_149,Female,29,customer149@mail.com,447122883231,UK,England,London,No
+CUST0150,Customer_150,Female,38,customer150@mail.com,916693645318,India,Delhi,Delhi,No
+CUST0151,Customer_151,Male,28,customer151@mail.com,448128121006,UK,Wales,Cardiff,No
+CUST0152,Customer_152,Female,43,customer152@mail.com,19911020934,Canada,Ontario,Toronto,Yes
+CUST0153,Customer_153,Female,51,customer153@mail.com,16420363831,Canada,Quebec,Montreal,No
+CUST0154,Customer_154,Male,56,customer154@mail.com,19213276921,USA,California,San Francisco,Yes
+CUST0155,Customer_155,Male,45,customer155@mail.com,17905349151,USA,California,San Diego,Yes
+CUST0156,Customer_156,Male,48,customer156@mail.com,19703728279,USA,Texas,Austin,No
+CUST0157,Customer_157,Female,44,customer157@mail.com,16997622567,Canada,Ontario,Ottawa,Yes
+CUST0158,Customer_158,Male,64,customer158@mail.com,16245531596,Canada,British Columbia,Victoria,No
+CUST0159,Customer_159,Female,52,customer159@mail.com,19383924757,Canada,British Columbia,Vancouver,Yes
+CUST0160,Customer_160,Male,58,customer160@mail.com,447229023566,UK,England,Manchester,Yes
+CUST0161,Customer_161,Male,58,customer161@mail.com,19847264468,USA,New York,New York,Yes
+CUST0162,Customer_162,Male,45,customer162@mail.com,446543380767,UK,Wales,Swansea,Yes
+CUST0163,Customer_163,Female,22,customer163@mail.com,16638260608,USA,Texas,Houston,No
+CUST0164,Customer_164,Female,61,customer164@mail.com,19455569117,USA,California,Los Angeles,Yes
+CUST0165,Customer_165,Female,25,customer165@mail.com,919775853590,India,Maharashtra,Mumbai,Yes
+CUST0166,Customer_166,Female,58,customer166@mail.com,918902816318,India,Karnataka,Mysuru,Yes
+CUST0167,Customer_167,Female,23,customer167@mail.com,18843467115,Canada,Ontario,Toronto,No
+CUST0168,Customer_168,Female,33,customer168@mail.com,448938350745,UK,England,Manchester,Yes
+CUST0169,Customer_169,Male,37,customer169@mail.com,18463588828,USA,Texas,Austin,No
+CUST0170,Customer_170,Female,34,customer170@mail.com,19631347102,USA,New York,Rochester,No
+CUST0171,Customer_171,Female,44,customer171@mail.com,918381259926,India,Tamil Nadu,Chennai,No
+CUST0172,Customer_172,Male,39,customer172@mail.com,916278401501,India,Maharashtra,Pune,No
+CUST0173,Customer_173,Male,48,customer173@mail.com,447670353669,UK,Wales,Swansea,No
+CUST0174,Customer_174,Male,19,customer174@mail.com,919877594245,India,Delhi,New Delhi,Yes
+CUST0175,Customer_175,Male,49,customer175@mail.com,18389337944,Canada,Ontario,Toronto,Yes
+CUST0176,Customer_176,Male,42,customer176@mail.com,916402752856,India,Maharashtra,Mumbai,Yes
+CUST0177,Customer_177,Male,38,customer177@mail.com,19975048771,Canada,Ontario,Ottawa,No
+CUST0178,Customer_178,Female,49,customer178@mail.com,18154243904,Canada,Ontario,Toronto,Yes
+CUST0179,Customer_179,Male,35,customer179@mail.com,17067158682,USA,California,San Francisco,No
+CUST0180,Customer_180,Female,22,customer180@mail.com,446798172013,UK,England,Birmingham,No
+CUST0181,Customer_181,Male,51,customer181@mail.com,18208940576,USA,Texas,Dallas,Yes
+CUST0182,Customer_182,Male,62,customer182@mail.com,18324590605,USA,New York,Rochester,Yes
+CUST0183,Customer_183,Male,24,customer183@mail.com,447630043512,UK,England,London,No
+CUST0184,Customer_184,Female,60,customer184@mail.com,18296209109,USA,New York,Buffalo,Yes
+CUST0185,Customer_185,Male,62,customer185@mail.com,17208269288,USA,Texas,Houston,No
+CUST0186,Customer_186,Female,27,customer186@mail.com,19982263010,Canada,Ontario,Toronto,Yes
+CUST0187,Customer_187,Female,49,customer187@mail.com,17786900078,Canada,Ontario,Ottawa,Yes
+CUST0188,Customer_188,Female,43,customer188@mail.com,449874488028,UK,Scotland,Glasgow,No
+CUST0189,Customer_189,Female,54,customer189@mail.com,917521884743,India,Delhi,Delhi,No
+CUST0190,Customer_190,Male,32,customer190@mail.com,17101791450,Canada,Quebec,Montreal,Yes
+CUST0191,Customer_191,Male,44,customer191@mail.com,19959860636,USA,Texas,Houston,No
+CUST0192,Customer_192,Male,23,customer192@mail.com,917619892592,India,Maharashtra,Pune,Yes
+CUST0193,Customer_193,Female,34,customer193@mail.com,16732042651,USA,Texas,Houston,Yes
+CUST0194,Customer_194,Male,56,customer194@mail.com,919747616024,India,Maharashtra,Pune,Yes
+CUST0195,Customer_195,Female,54,customer195@mail.com,16155207047,Canada,Quebec,Quebec City,Yes
+CUST0196,Customer_196,Male,54,customer196@mail.com,17660529035,Canada,Ontario,Toronto,No
+CUST0197,Customer_197,Male,56,customer197@mail.com,18517861339,USA,New York,New York,No
+CUST0198,Customer_198,Male,30,customer198@mail.com,16561593282,Canada,Quebec,Quebec City,Yes
+CUST0199,Customer_199,Female,39,customer199@mail.com,18714288329,Canada,Ontario,Ottawa,No
+CUST0200,Customer_200,Male,41,customer200@mail.com,16671659184,Canada,Ontario,Ottawa,Yes
+CUST0201,Customer_201,Female,37,customer201@mail.com,18318272532,Canada,Ontario,Toronto,No
+CUST0202,Customer_202,Female,45,customer202@mail.com,16277764733,Canada,British Columbia,Vancouver,No
+CUST0203,Customer_203,Male,58,customer203@mail.com,917859826467,India,Maharashtra,Mumbai,Yes
+CUST0204,Customer_204,Female,31,customer204@mail.com,446508167085,UK,England,Birmingham,No
+CUST0205,Customer_205,Male,26,customer205@mail.com,918053123387,India,Delhi,Delhi,Yes
+CUST0206,Customer_206,Female,59,customer206@mail.com,18202810014,USA,California,San Francisco,Yes
+CUST0207,Customer_207,Female,36,customer207@mail.com,446094417912,UK,Wales,Cardiff,Yes
+CUST0208,Customer_208,Female,60,customer208@mail.com,449396763235,UK,Wales,Swansea,Yes
+CUST0209,Customer_209,Male,32,customer209@mail.com,17067512412,Canada,British Columbia,Vancouver,Yes
+CUST0210,Customer_210,Male,61,customer210@mail.com,916311835685,India,Maharashtra,Nagpur,No
+CUST0211,Customer_211,Female,29,customer211@mail.com,16162915894,Canada,Ontario,Ottawa,Yes
+CUST0212,Customer_212,Male,44,customer212@mail.com,16838746799,USA,Texas,Houston,No
+CUST0213,Customer_213,Female,63,customer213@mail.com,19875695889,Canada,Ontario,Toronto,No
+CUST0214,Customer_214,Female,63,customer214@mail.com,448050213662,UK,England,Birmingham,No
+CUST0215,Customer_215,Male,42,customer215@mail.com,448213482568,UK,Wales,Cardiff,No
+CUST0216,Customer_216,Male,64,customer216@mail.com,17412750956,Canada,Quebec,Montreal,Yes
+CUST0217,Customer_217,Female,33,customer217@mail.com,19047344586,Canada,British Columbia,Victoria,No
+CUST0218,Customer_218,Female,57,customer218@mail.com,446248422773,UK,Wales,Swansea,Yes
+CUST0219,Customer_219,Female,26,customer219@mail.com,446427683966,UK,England,London,Yes
+CUST0220,Customer_220,Male,34,customer220@mail.com,919276484609,India,Delhi,New Delhi,No
+CUST0221,Customer_221,Male,54,customer221@mail.com,448420859236,UK,Wales,Swansea,Yes
+CUST0222,Customer_222,Female,57,customer222@mail.com,919393447810,India,Delhi,Delhi,Yes
+CUST0223,Customer_223,Male,52,customer223@mail.com,446708875349,UK,Scotland,Glasgow,Yes
+CUST0224,Customer_224,Female,37,customer224@mail.com,918106000046,India,Delhi,New Delhi,No
+CUST0225,Customer_225,Male,29,customer225@mail.com,918917120563,India,Delhi,Delhi,Yes
+CUST0226,Customer_226,Male,31,customer226@mail.com,17400383545,Canada,Ontario,Toronto,No
+CUST0227,Customer_227,Female,35,customer227@mail.com,446255602326,UK,England,London,Yes
+CUST0228,Customer_228,Female,27,customer228@mail.com,17404515402,Canada,Ontario,Toronto,No
+CUST0229,Customer_229,Male,32,customer229@mail.com,449710867619,UK,England,Birmingham,Yes
+CUST0230,Customer_230,Female,30,customer230@mail.com,16478793871,Canada,Quebec,Montreal,Yes
+CUST0231,Customer_231,Male,58,customer231@mail.com,917360083120,India,Delhi,Delhi,Yes
+CUST0232,Customer_232,Male,30,customer232@mail.com,446747579278,UK,Wales,Swansea,No
+CUST0233,Customer_233,Male,55,customer233@mail.com,16902128403,Canada,Quebec,Quebec City,Yes
+CUST0234,Customer_234,Male,29,customer234@mail.com,18590652714,USA,California,Los Angeles,Yes
+CUST0235,Customer_235,Male,47,customer235@mail.com,19124651446,USA,New York,Rochester,No
+CUST0236,Customer_236,Male,35,customer236@mail.com,18768994391,Canada,Ontario,Ottawa,Yes
+CUST0237,Customer_237,Female,64,customer237@mail.com,919194335580,India,Maharashtra,Nagpur,Yes
+CUST0238,Customer_238,Male,33,customer238@mail.com,19826307138,USA,New York,New York,No
+CUST0239,Customer_239,Female,28,customer239@mail.com,449455667947,UK,Scotland,Edinburgh,No
+CUST0240,Customer_240,Female,36,customer240@mail.com,17653682106,Canada,British Columbia,Victoria,Yes
+CUST0241,Customer_241,Male,26,customer241@mail.com,446787805065,UK,England,Manchester,Yes
+CUST0242,Customer_242,Male,18,customer242@mail.com,448778194408,UK,Wales,Cardiff,Yes
+CUST0243,Customer_243,Male,31,customer243@mail.com,919659855231,India,Delhi,Delhi,Yes
+CUST0244,Customer_244,Male,41,customer244@mail.com,447983517418,UK,England,Manchester,No
+CUST0245,Customer_245,Male,26,customer245@mail.com,17820246582,USA,Texas,Dallas,Yes
+CUST0246,Customer_246,Male,50,customer246@mail.com,918826086592,India,Maharashtra,Pune,No
+CUST0247,Customer_247,Male,63,customer247@mail.com,19456892257,USA,Texas,Austin,No
+CUST0248,Customer_248,Male,42,customer248@mail.com,449745948996,UK,Scotland,Edinburgh,No
+CUST0249,Customer_249,Female,30,customer249@mail.com,19183038614,USA,New York,Rochester,Yes
+CUST0250,Customer_250,Male,27,customer250@mail.com,446682302906,UK,Scotland,Edinburgh,No
+CUST0251,Customer_251,Female,40,customer251@mail.com,917429558946,India,Karnataka,Mysuru,Yes
+CUST0252,Customer_252,Female,59,customer252@mail.com,19515225736,USA,Texas,Dallas,Yes
+CUST0253,Customer_253,Male,52,customer253@mail.com,919771572441,India,Tamil Nadu,Chennai,No
+CUST0254,Customer_254,Male,58,customer254@mail.com,446689959759,UK,Wales,Cardiff,No
+CUST0255,Customer_255,Male,51,customer255@mail.com,917895019069,India,Maharashtra,Nagpur,Yes
+CUST0256,Customer_256,Female,37,customer256@mail.com,446128466230,UK,Scotland,Edinburgh,Yes
+CUST0257,Customer_257,Male,24,customer257@mail.com,447711578201,UK,Wales,Cardiff,No
+CUST0258,Customer_258,Male,39,customer258@mail.com,18755779344,Canada,Ontario,Ottawa,No
+CUST0259,Customer_259,Male,28,customer259@mail.com,18899293614,USA,Texas,Austin,Yes
+CUST0260,Customer_260,Female,43,customer260@mail.com,18220160746,Canada,Quebec,Quebec City,Yes
+CUST0261,Customer_261,Female,44,customer261@mail.com,449128604980,UK,Scotland,Edinburgh,Yes
+CUST0262,Customer_262,Male,39,customer262@mail.com,919154373286,India,Karnataka,Mysuru,No
+CUST0263,Customer_263,Female,25,customer263@mail.com,19596961511,Canada,Ontario,Ottawa,No
+CUST0264,Customer_264,Male,20,customer264@mail.com,916200091968,India,Maharashtra,Pune,Yes
+CUST0265,Customer_265,Female,45,customer265@mail.com,16124804069,USA,Texas,Houston,Yes
+CUST0266,Customer_266,Male,38,customer266@mail.com,16894256300,Canada,Ontario,Ottawa,Yes
+CUST0267,Customer_267,Female,46,customer267@mail.com,18927581264,USA,Texas,Houston,Yes
+CUST0268,Customer_268,Male,41,customer268@mail.com,17584076755,Canada,Ontario,Ottawa,No
+CUST0269,Customer_269,Male,41,customer269@mail.com,916295345631,India,Maharashtra,Pune,No
+CUST0270,Customer_270,Male,41,customer270@mail.com,16642311482,USA,Texas,Houston,No
+CUST0271,Customer_271,Female,49,customer271@mail.com,447913941854,UK,Scotland,Glasgow,Yes
+CUST0272,Customer_272,Male,61,customer272@mail.com,448350427882,UK,Wales,Swansea,Yes
+CUST0273,Customer_273,Male,32,customer273@mail.com,18510171421,USA,New York,Rochester,No
+CUST0274,Customer_274,Female,39,customer274@mail.com,917944184523,India,Tamil Nadu,Coimbatore,No
+CUST0275,Customer_275,Female,53,customer275@mail.com,449800167132,UK,England,Manchester,No
+CUST0276,Customer_276,Female,37,customer276@mail.com,447598052133,UK,England,Manchester,Yes
+CUST0277,Customer_277,Male,58,customer277@mail.com,16210794622,Canada,Quebec,Montreal,No
+CUST0278,Customer_278,Female,31,customer278@mail.com,16417339299,USA,Texas,Dallas,No
+CUST0279,Customer_279,Male,36,customer279@mail.com,19079041080,Canada,Quebec,Quebec City,Yes
+CUST0280,Customer_280,Female,22,customer280@mail.com,17083091344,USA,Texas,Houston,Yes
+CUST0281,Customer_281,Female,21,customer281@mail.com,18607197901,Canada,British Columbia,Victoria,No
+CUST0282,Customer_282,Female,62,customer282@mail.com,917746625087,India,Delhi,Delhi,No
+CUST0283,Customer_283,Female,57,customer283@mail.com,18505213542,USA,Texas,Houston,No
+CUST0284,Customer_284,Male,26,customer284@mail.com,18563570016,USA,Texas,Austin,Yes
+CUST0285,Customer_285,Male,39,customer285@mail.com,448691065181,UK,Wales,Swansea,Yes
+CUST0286,Customer_286,Female,63,customer286@mail.com,918285706757,India,Tamil Nadu,Coimbatore,Yes
+CUST0287,Customer_287,Male,53,customer287@mail.com,449294859599,UK,England,Birmingham,No
+CUST0288,Customer_288,Male,41,customer288@mail.com,447573805440,UK,England,Manchester,No
+CUST0289,Customer_289,Female,26,customer289@mail.com,16210469664,USA,California,San Francisco,No
+CUST0290,Customer_290,Female,38,customer290@mail.com,19998950464,Canada,Ontario,Toronto,Yes
+CUST0291,Customer_291,Female,51,customer291@mail.com,19940275202,USA,Texas,Austin,Yes
+CUST0292,Customer_292,Male,59,customer292@mail.com,17934163799,Canada,Ontario,Toronto,Yes
+CUST0293,Customer_293,Female,48,customer293@mail.com,19760646133,Canada,Quebec,Montreal,Yes
+CUST0294,Customer_294,Male,60,customer294@mail.com,17360329343,USA,New York,Rochester,Yes
+CUST0295,Customer_295,Male,64,customer295@mail.com,18963295440,Canada,Ontario,Ottawa,Yes
+CUST0296,Customer_296,Male,27,customer296@mail.com,916044194165,India,Maharashtra,Mumbai,No
+CUST0297,Customer_297,Male,29,customer297@mail.com,16076613703,USA,Texas,Dallas,Yes
+CUST0298,Customer_298,Female,41,customer298@mail.com,18354190381,Canada,Ontario,Toronto,Yes
+CUST0299,Customer_299,Female,24,customer299@mail.com,18337709085,Canada,Ontario,Ottawa,Yes
+CUST0300,Customer_300,Female,26,customer300@mail.com,449998801066,UK,England,Birmingham,No
+CUST0301,Customer_301,Male,22,customer301@mail.com,17482436642,USA,Texas,Houston,Yes
+CUST0302,Customer_302,Male,29,customer302@mail.com,448672378972,UK,England,Birmingham,No
+CUST0303,Customer_303,Male,47,customer303@mail.com,17035252825,Canada,Ontario,Toronto,No
+CUST0304,Customer_304,Male,25,customer304@mail.com,449675795197,UK,Scotland,Glasgow,No
+CUST0305,Customer_305,Female,56,customer305@mail.com,917093766243,India,Maharashtra,Mumbai,No
+CUST0306,Customer_306,Female,25,customer306@mail.com,446586533837,UK,Wales,Swansea,Yes
+CUST0307,Customer_307,Female,38,customer307@mail.com,16821800868,Canada,Ontario,Toronto,Yes
+CUST0308,Customer_308,Male,55,customer308@mail.com,16151790285,USA,New York,New York,No
+CUST0309,Customer_309,Male,55,customer309@mail.com,16406314458,USA,New York,Buffalo,Yes
+CUST0310,Customer_310,Female,19,customer310@mail.com,447099168411,UK,Wales,Swansea,Yes
+CUST0311,Customer_311,Male,55,customer311@mail.com,448556033683,UK,Wales,Swansea,No
+CUST0312,Customer_312,Male,41,customer312@mail.com,17635978579,Canada,British Columbia,Vancouver,Yes
+CUST0313,Customer_313,Female,52,customer313@mail.com,19669036589,USA,California,Los Angeles,No
+CUST0314,Customer_314,Male,53,customer314@mail.com,917352664105,India,Maharashtra,Nagpur,No
+CUST0315,Customer_315,Male,22,customer315@mail.com,449321136732,UK,England,London,No
+CUST0316,Customer_316,Male,38,customer316@mail.com,448160421260,UK,England,Manchester,No
+CUST0317,Customer_317,Male,25,customer317@mail.com,447534777434,UK,Scotland,Glasgow,No
+CUST0318,Customer_318,Female,51,customer318@mail.com,916724452209,India,Delhi,New Delhi,Yes
+CUST0319,Customer_319,Male,20,customer319@mail.com,17121843701,Canada,Ontario,Toronto,Yes
+CUST0320,Customer_320,Male,30,customer320@mail.com,18653007731,USA,Texas,Houston,No
+CUST0321,Customer_321,Female,51,customer321@mail.com,19964102885,Canada,British Columbia,Victoria,No
+CUST0322,Customer_322,Female,64,customer322@mail.com,448243497498,UK,Scotland,Glasgow,No
+CUST0323,Customer_323,Female,27,customer323@mail.com,18021684896,USA,Texas,Houston,Yes
+CUST0324,Customer_324,Male,30,customer324@mail.com,19552174317,USA,New York,New York,Yes
+CUST0325,Customer_325,Female,49,customer325@mail.com,19150914973,USA,Texas,Dallas,Yes
+CUST0326,Customer_326,Female,63,customer326@mail.com,917825344765,India,Delhi,Delhi,No
+CUST0327,Customer_327,Male,48,customer327@mail.com,446601614063,UK,Wales,Cardiff,Yes
+CUST0328,Customer_328,Male,28,customer328@mail.com,19425697200,USA,New York,Rochester,No
+CUST0329,Customer_329,Male,48,customer329@mail.com,449383165446,UK,Wales,Swansea,No
+CUST0330,Customer_330,Female,32,customer330@mail.com,916537677918,India,Maharashtra,Mumbai,Yes
+CUST0331,Customer_331,Male,18,customer331@mail.com,449188605385,UK,Wales,Cardiff,Yes
+CUST0332,Customer_332,Female,33,customer332@mail.com,16028296485,USA,New York,Buffalo,Yes
+CUST0333,Customer_333,Female,42,customer333@mail.com,449030959497,UK,Wales,Swansea,Yes
+CUST0334,Customer_334,Female,59,customer334@mail.com,916625299805,India,Karnataka,Mysuru,No
+CUST0335,Customer_335,Male,27,customer335@mail.com,449083770203,UK,Wales,Swansea,No
+CUST0336,Customer_336,Male,28,customer336@mail.com,447847881300,UK,England,Birmingham,Yes
+CUST0337,Customer_337,Male,59,customer337@mail.com,16357352657,Canada,British Columbia,Vancouver,No
+CUST0338,Customer_338,Male,43,customer338@mail.com,16331948042,Canada,British Columbia,Victoria,Yes
+CUST0339,Customer_339,Female,39,customer339@mail.com,447970479958,UK,Wales,Swansea,No
+CUST0340,Customer_340,Male,53,customer340@mail.com,17474090375,Canada,Ontario,Toronto,Yes
+CUST0341,Customer_341,Female,54,customer341@mail.com,16774702642,USA,New York,Buffalo,Yes
+CUST0342,Customer_342,Female,19,customer342@mail.com,449213431364,UK,Wales,Swansea,No
+CUST0343,Customer_343,Male,48,customer343@mail.com,17718149429,USA,Texas,Houston,Yes
+CUST0344,Customer_344,Female,23,customer344@mail.com,918980621618,India,Delhi,New Delhi,Yes
+CUST0345,Customer_345,Male,33,customer345@mail.com,919550700020,India,Delhi,Delhi,Yes
+CUST0346,Customer_346,Male,60,customer346@mail.com,19361985310,Canada,Ontario,Toronto,No
+CUST0347,Customer_347,Female,52,customer347@mail.com,17904566260,Canada,Ontario,Toronto,Yes
+CUST0348,Customer_348,Male,26,customer348@mail.com,448155320508,UK,Scotland,Edinburgh,No
+CUST0349,Customer_349,Female,63,customer349@mail.com,446457505301,UK,Scotland,Glasgow,Yes
+CUST0350,Customer_350,Female,46,customer350@mail.com,18772274884,USA,Texas,Houston,Yes
+CUST0351,Customer_351,Female,18,customer351@mail.com,17385808534,USA,Texas,Houston,No
+CUST0352,Customer_352,Female,28,customer352@mail.com,917668943353,India,Delhi,New Delhi,Yes
+CUST0353,Customer_353,Female,32,customer353@mail.com,919019298545,India,Karnataka,Bengaluru,No
+CUST0354,Customer_354,Male,59,customer354@mail.com,917402216134,India,Karnataka,Bengaluru,Yes
+CUST0355,Customer_355,Male,39,customer355@mail.com,17735841633,Canada,British Columbia,Vancouver,No
+CUST0356,Customer_356,Female,63,customer356@mail.com,19258138740,USA,Texas,Austin,Yes
+CUST0357,Customer_357,Female,64,customer357@mail.com,19867576861,USA,Texas,Houston,Yes
+CUST0358,Customer_358,Female,35,customer358@mail.com,17402004718,USA,New York,Rochester,No
+CUST0359,Customer_359,Female,62,customer359@mail.com,19018461235,Canada,Quebec,Quebec City,No
+CUST0360,Customer_360,Female,31,customer360@mail.com,447019352671,UK,Wales,Cardiff,No
+CUST0361,Customer_361,Male,56,customer361@mail.com,17459456186,USA,Texas,Austin,No
+CUST0362,Customer_362,Male,29,customer362@mail.com,448002932163,UK,England,Manchester,No
+CUST0363,Customer_363,Male,45,customer363@mail.com,919819076468,India,Karnataka,Mysuru,No
+CUST0364,Customer_364,Female,26,customer364@mail.com,19051388625,Canada,Quebec,Montreal,Yes
+CUST0365,Customer_365,Female,23,customer365@mail.com,447813235372,UK,Scotland,Edinburgh,Yes
+CUST0366,Customer_366,Female,37,customer366@mail.com,19292961489,USA,New York,Buffalo,No
+CUST0367,Customer_367,Female,22,customer367@mail.com,917388474687,India,Maharashtra,Pune,No
+CUST0368,Customer_368,Female,21,customer368@mail.com,449379584081,UK,Wales,Swansea,No
+CUST0369,Customer_369,Female,54,customer369@mail.com,17645696393,USA,Texas,Houston,Yes
+CUST0370,Customer_370,Male,25,customer370@mail.com,17048338024,USA,Texas,Austin,No
+CUST0371,Customer_371,Female,24,customer371@mail.com,19051331615,USA,Texas,Houston,Yes
+CUST0372,Customer_372,Female,28,customer372@mail.com,16373597322,Canada,Ontario,Toronto,Yes
+CUST0373,Customer_373,Male,60,customer373@mail.com,916584723189,India,Karnataka,Mysuru,No
+CUST0374,Customer_374,Female,37,customer374@mail.com,17037472484,Canada,British Columbia,Victoria,No
+CUST0375,Customer_375,Male,44,customer375@mail.com,17081722914,USA,New York,New York,Yes
+CUST0376,Customer_376,Male,59,customer376@mail.com,448038832073,UK,Wales,Swansea,No
+CUST0377,Customer_377,Male,39,customer377@mail.com,448929229698,UK,Scotland,Edinburgh,Yes
+CUST0378,Customer_378,Male,38,customer378@mail.com,919930571268,India,Delhi,Delhi,Yes
+CUST0379,Customer_379,Female,44,customer379@mail.com,18975372981,USA,New York,Buffalo,Yes
+CUST0380,Customer_380,Female,57,customer380@mail.com,16479121849,Canada,Ontario,Ottawa,No
+CUST0381,Customer_381,Female,43,customer381@mail.com,448352476774,UK,Wales,Swansea,No
+CUST0382,Customer_382,Male,38,customer382@mail.com,917279530114,India,Maharashtra,Nagpur,No
+CUST0383,Customer_383,Female,49,customer383@mail.com,916730790258,India,Maharashtra,Nagpur,No
+CUST0384,Customer_384,Male,49,customer384@mail.com,17793936186,USA,Texas,Houston,No
+CUST0385,Customer_385,Male,40,customer385@mail.com,917438497360,India,Maharashtra,Nagpur,No
+CUST0386,Customer_386,Male,64,customer386@mail.com,19923973389,Canada,British Columbia,Victoria,Yes
+CUST0387,Customer_387,Male,59,customer387@mail.com,16677198822,Canada,British Columbia,Victoria,No
+CUST0388,Customer_388,Female,29,customer388@mail.com,17666885200,Canada,Quebec,Quebec City,Yes
+CUST0389,Customer_389,Female,40,customer389@mail.com,916749505157,India,Tamil Nadu,Coimbatore,Yes
+CUST0390,Customer_390,Male,51,customer390@mail.com,19321095513,Canada,Ontario,Toronto,Yes
+CUST0391,Customer_391,Male,40,customer391@mail.com,447030896608,UK,England,London,No
+CUST0392,Customer_392,Female,22,customer392@mail.com,919601383167,India,Karnataka,Mysuru,No
+CUST0393,Customer_393,Male,41,customer393@mail.com,917125548208,India,Maharashtra,Mumbai,Yes
+CUST0394,Customer_394,Female,49,customer394@mail.com,19507762204,USA,Texas,Dallas,Yes
+CUST0395,Customer_395,Male,62,customer395@mail.com,16993027463,USA,California,Los Angeles,No
+CUST0396,Customer_396,Male,24,customer396@mail.com,916709439964,India,Maharashtra,Mumbai,No
+CUST0397,Customer_397,Male,37,customer397@mail.com,18349659244,USA,California,Los Angeles,Yes
+CUST0398,Customer_398,Male,52,customer398@mail.com,19771734817,Canada,British Columbia,Vancouver,Yes
+CUST0399,Customer_399,Female,41,customer399@mail.com,917964396402,India,Delhi,Delhi,No
+CUST0400,Customer_400,Male,33,customer400@mail.com,16700015281,Canada,British Columbia,Victoria,No
+CUST0401,Customer_401,Female,20,customer401@mail.com,17496885772,Canada,Ontario,Toronto,Yes
+CUST0402,Customer_402,Male,55,customer402@mail.com,19665302195,Canada,Quebec,Quebec City,Yes
+CUST0403,Customer_403,Female,35,customer403@mail.com,18247919271,Canada,Quebec,Quebec City,Yes
+CUST0404,Customer_404,Male,22,customer404@mail.com,447653352699,UK,Scotland,Edinburgh,Yes
+CUST0405,Customer_405,Male,41,customer405@mail.com,16445972308,Canada,British Columbia,Vancouver,Yes
+CUST0406,Customer_406,Male,55,customer406@mail.com,16319012009,Canada,Quebec,Quebec City,Yes
+CUST0407,Customer_407,Male,29,customer407@mail.com,448021095483,UK,England,Birmingham,Yes
+CUST0408,Customer_408,Male,46,customer408@mail.com,16861800300,Canada,Ontario,Ottawa,Yes
+CUST0409,Customer_409,Male,33,customer409@mail.com,916363769070,India,Delhi,New Delhi,No
+CUST0410,Customer_410,Male,33,customer410@mail.com,16770443267,Canada,Ontario,Toronto,No
+CUST0411,Customer_411,Male,41,customer411@mail.com,918757610462,India,Maharashtra,Mumbai,No
+CUST0412,Customer_412,Female,64,customer412@mail.com,448621474667,UK,Scotland,Glasgow,Yes
+CUST0413,Customer_413,Male,40,customer413@mail.com,17881131130,Canada,British Columbia,Victoria,No
+CUST0414,Customer_414,Male,50,customer414@mail.com,919754447151,India,Delhi,Delhi,No
+CUST0415,Customer_415,Female,20,customer415@mail.com,18435581449,Canada,Ontario,Ottawa,No
+CUST0416,Customer_416,Female,22,customer416@mail.com,918248469671,India,Karnataka,Bengaluru,No
+CUST0417,Customer_417,Female,29,customer417@mail.com,917208122454,India,Karnataka,Mysuru,No
+CUST0418,Customer_418,Female,44,customer418@mail.com,16917645593,USA,New York,Rochester,Yes
+CUST0419,Customer_419,Female,58,customer419@mail.com,917246558330,India,Delhi,Delhi,Yes
+CUST0420,Customer_420,Female,56,customer420@mail.com,916277063459,India,Delhi,Delhi,No
+CUST0421,Customer_421,Male,28,customer421@mail.com,16601714368,Canada,British Columbia,Victoria,Yes
+CUST0422,Customer_422,Male,43,customer422@mail.com,18898783654,USA,Texas,Houston,Yes
+CUST0423,Customer_423,Male,60,customer423@mail.com,446841226257,UK,England,Birmingham,No
+CUST0424,Customer_424,Female,23,customer424@mail.com,917830615659,India,Maharashtra,Mumbai,Yes
+CUST0425,Customer_425,Male,54,customer425@mail.com,447589013858,UK,England,Birmingham,Yes
+CUST0426,Customer_426,Male,25,customer426@mail.com,446332793023,UK,Scotland,Edinburgh,No
+CUST0427,Customer_427,Male,27,customer427@mail.com,19915497636,Canada,Quebec,Montreal,Yes
+CUST0428,Customer_428,Female,64,customer428@mail.com,18011465058,USA,Texas,Houston,Yes
+CUST0429,Customer_429,Female,18,customer429@mail.com,446363027798,UK,Wales,Cardiff,No
+CUST0430,Customer_430,Female,20,customer430@mail.com,917797091166,India,Karnataka,Mysuru,No
+CUST0431,Customer_431,Female,60,customer431@mail.com,918670332380,India,Tamil Nadu,Chennai,Yes
+CUST0432,Customer_432,Male,52,customer432@mail.com,447119752233,UK,Wales,Swansea,Yes
+CUST0433,Customer_433,Female,19,customer433@mail.com,448900090875,UK,Scotland,Edinburgh,No
+CUST0434,Customer_434,Male,54,customer434@mail.com,919373951777,India,Delhi,Delhi,No
+CUST0435,Customer_435,Male,19,customer435@mail.com,918198027624,India,Tamil Nadu,Chennai,No
+CUST0436,Customer_436,Female,50,customer436@mail.com,19325531304,Canada,Quebec,Quebec City,No
+CUST0437,Customer_437,Male,55,customer437@mail.com,447842535442,UK,Wales,Cardiff,No
+CUST0438,Customer_438,Male,59,customer438@mail.com,449094471499,UK,England,London,No
+CUST0439,Customer_439,Male,61,customer439@mail.com,918185598122,India,Tamil Nadu,Coimbatore,Yes
+CUST0440,Customer_440,Male,37,customer440@mail.com,17842087142,Canada,British Columbia,Vancouver,No
+CUST0441,Customer_441,Female,61,customer441@mail.com,448649068297,UK,England,Manchester,No
+CUST0442,Customer_442,Male,29,customer442@mail.com,916343981486,India,Karnataka,Bengaluru,No
+CUST0443,Customer_443,Male,55,customer443@mail.com,17719605373,USA,Texas,Austin,Yes
+CUST0444,Customer_444,Male,34,customer444@mail.com,446152071391,UK,Scotland,Edinburgh,No
+CUST0445,Customer_445,Female,32,customer445@mail.com,918938707289,India,Maharashtra,Pune,No
+CUST0446,Customer_446,Male,23,customer446@mail.com,17820506900,Canada,Quebec,Quebec City,No
+CUST0447,Customer_447,Male,45,customer447@mail.com,449161867098,UK,Scotland,Edinburgh,No
+CUST0448,Customer_448,Female,40,customer448@mail.com,919601517498,India,Tamil Nadu,Chennai,No
+CUST0449,Customer_449,Female,18,customer449@mail.com,447737362218,UK,England,Manchester,No
+CUST0450,Customer_450,Female,27,customer450@mail.com,449737331673,UK,England,London,No
+CUST0451,Customer_451,Female,42,customer451@mail.com,19680332183,Canada,British Columbia,Victoria,Yes
+CUST0452,Customer_452,Female,47,customer452@mail.com,18156893612,Canada,Quebec,Quebec City,No
+CUST0453,Customer_453,Female,45,customer453@mail.com,917179435687,India,Karnataka,Bengaluru,No
+CUST0454,Customer_454,Male,64,customer454@mail.com,919582847303,India,Delhi,Delhi,Yes
+CUST0455,Customer_455,Female,47,customer455@mail.com,449188632279,UK,England,Birmingham,Yes
+CUST0456,Customer_456,Female,52,customer456@mail.com,916310724460,India,Delhi,Delhi,No
+CUST0457,Customer_457,Female,44,customer457@mail.com,919623846511,India,Karnataka,Bengaluru,No
+CUST0458,Customer_458,Female,43,customer458@mail.com,916134238734,India,Tamil Nadu,Coimbatore,No
+CUST0459,Customer_459,Female,19,customer459@mail.com,19816514363,USA,Texas,Houston,Yes
+CUST0460,Customer_460,Female,39,customer460@mail.com,19923484633,Canada,British Columbia,Victoria,Yes
+CUST0461,Customer_461,Male,25,customer461@mail.com,916322342543,India,Maharashtra,Pune,Yes
+CUST0462,Customer_462,Male,60,customer462@mail.com,446597484397,UK,England,Manchester,No
+CUST0463,Customer_463,Female,22,customer463@mail.com,446945600394,UK,Scotland,Edinburgh,Yes
+CUST0464,Customer_464,Female,33,customer464@mail.com,19279535172,USA,New York,Rochester,Yes
+CUST0465,Customer_465,Male,48,customer465@mail.com,916833994173,India,Delhi,Delhi,No
+CUST0466,Customer_466,Female,52,customer466@mail.com,18948732850,USA,Texas,Houston,Yes
+CUST0467,Customer_467,Female,46,customer467@mail.com,17343292314,USA,Texas,Houston,Yes
+CUST0468,Customer_468,Female,38,customer468@mail.com,18102840485,Canada,British Columbia,Vancouver,No
+CUST0469,Customer_469,Female,33,customer469@mail.com,19773923257,Canada,Quebec,Quebec City,Yes
+CUST0470,Customer_470,Female,39,customer470@mail.com,447727322245,UK,Wales,Cardiff,No
+CUST0471,Customer_471,Male,30,customer471@mail.com,18381872670,USA,Texas,Houston,Yes
+CUST0472,Customer_472,Male,36,customer472@mail.com,18175253794,Canada,Quebec,Montreal,No
+CUST0473,Customer_473,Female,34,customer473@mail.com,17858345352,USA,California,San Diego,Yes
+CUST0474,Customer_474,Male,23,customer474@mail.com,18005622909,USA,Texas,Houston,No
+CUST0475,Customer_475,Male,29,customer475@mail.com,449060997115,UK,England,London,Yes
+CUST0476,Customer_476,Female,33,customer476@mail.com,19649132208,USA,Texas,Houston,Yes
+CUST0477,Customer_477,Male,30,customer477@mail.com,447674027486,UK,Wales,Swansea,Yes
+CUST0478,Customer_478,Female,63,customer478@mail.com,917664515132,India,Maharashtra,Nagpur,No
+CUST0479,Customer_479,Female,55,customer479@mail.com,447728722952,UK,Wales,Swansea,Yes
+CUST0480,Customer_480,Female,55,customer480@mail.com,448786109166,UK,England,London,Yes
+CUST0481,Customer_481,Male,38,customer481@mail.com,19213866642,USA,New York,New York,Yes
+CUST0482,Customer_482,Female,21,customer482@mail.com,917843473035,India,Delhi,New Delhi,No
+CUST0483,Customer_483,Female,53,customer483@mail.com,446337921333,UK,Wales,Swansea,Yes
+CUST0484,Customer_484,Female,53,customer484@mail.com,916711323330,India,Tamil Nadu,Coimbatore,Yes
+CUST0485,Customer_485,Male,64,customer485@mail.com,447745028454,UK,England,Birmingham,No
+CUST0486,Customer_486,Female,50,customer486@mail.com,918791219193,India,Maharashtra,Nagpur,No
+CUST0487,Customer_487,Female,29,customer487@mail.com,18472857730,USA,New York,Rochester,No
+CUST0488,Customer_488,Female,54,customer488@mail.com,18275145664,USA,New York,Buffalo,No
+CUST0489,Customer_489,Female,37,customer489@mail.com,449262223646,UK,England,Manchester,Yes
+CUST0490,Customer_490,Female,61,customer490@mail.com,919948971527,India,Maharashtra,Mumbai,Yes
+CUST0491,Customer_491,Female,63,customer491@mail.com,16877463844,USA,Texas,Houston,No
+CUST0492,Customer_492,Female,31,customer492@mail.com,19266264528,Canada,Ontario,Ottawa,Yes
+CUST0493,Customer_493,Female,42,customer493@mail.com,448346175968,UK,Scotland,Glasgow,No
+CUST0494,Customer_494,Female,35,customer494@mail.com,918617746956,India,Maharashtra,Nagpur,No
+CUST0495,Customer_495,Female,31,customer495@mail.com,449591919442,UK,Scotland,Glasgow,No
+CUST0496,Customer_496,Female,59,customer496@mail.com,18865609525,Canada,Ontario,Ottawa,Yes
+CUST0497,Customer_497,Female,57,customer497@mail.com,16981665180,Canada,British Columbia,Vancouver,Yes
+CUST0498,Customer_498,Female,37,customer498@mail.com,917366620775,India,Tamil Nadu,Coimbatore,Yes
+CUST0499,Customer_499,Male,28,customer499@mail.com,16108047609,Canada,Ontario,Toronto,Yes
+CUST0500,Customer_500,Male,42,customer500@mail.com,16258686034,Canada,Ontario,Toronto,No
